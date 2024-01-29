@@ -1,0 +1,4 @@
+AdjIti hJs used text edItJng software to type some text. After
+savIng the artIcle as words.txt, she realIzed that she had wrongly
+typed the alphabet “J" Instead of “I" everywhere In the artIcle.
+WrIte a functIon defInItIon for JtoI() In Python that woul
